@@ -19,7 +19,7 @@ import es.hefame.proymon.pedidos.ImpresoraLine;
 import es.hefame.proymon.pedidos.ImpresoraReader;
 import es.hefame.proymon.pedidos.ImpresoraLine.TipoLinea;
 
-public class ProymonApi {
+public class ProymonCollector {
 	
 	private static Logger L = LogManager.getLogger();
 
